@@ -1,6 +1,4 @@
-# GameStop-GME-Vs-Tesla-TSLA-Data-Analysis
-
-# Stock Price and Revenue Analysis
+# Stock Price and Revenue Analysis: TSLA vs GME
 
 Understanding the dynamics of stock prices is multifaceted. It involves various factors such as the number of shares available, future profit projections, and more. A key indicator is the company's profitability and profit growth; as profits rise, stock prices generally follow suit. If you anticipate an increase in a company's profits, it's wise to invest in the stock, expecting the price to climb. But what if you predict a drop in the stock price?
 
@@ -16,5 +14,5 @@ As a data scientist at a hedge fund, your task is to extract profit data for Tes
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/stock-analysis.git
+   git clone [https://github.com/your-repo/stock-analysis.git](https://github.com/AdySU22/GameStop-GME-Vs-Tesla-TSLA-Stock-Analysis.git)
 pip install -r requirements.txt
