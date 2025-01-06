@@ -8,7 +8,7 @@ There are instances where short sellers miscalculate, as seen with Tesla. Severa
 
 In contrast, some stocks experience price hikes not grounded in fundamentals. An example is GameStop, where individual investors from the Reddit community "WallStreetBets" bought shares of the struggling video game retailer, causing its stock price to soar. This surge resulted in substantial losses for hedge funds that had shorted the stock. Despite these fluctuations, GameStop's share price is expected to eventually drop, encouraging hedge funds to maintain their short positions.
 
-As a data scientist at a hedge fund, your task is to extract profit data for Tesla and GameStop, and build a dashboard to analyze and compare stock prices versus profits.
+As a data scientist at a hedge fund, my task is to extract profit data for Tesla and GameStop, and build a dashboard to analyze and compare stock prices versus profits.
 
 ## Installation Instructions
 
